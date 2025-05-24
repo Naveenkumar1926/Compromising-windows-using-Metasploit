@@ -91,4 +91,4 @@ keyscan_start	Begins capturing keys typed in the target. On the Windows target, 
 keyscan_dump	Shows the keystrokes captured so far
 ![Alt text](img/keyscan.png)
 ## RESULT:
-The Metasploit framework is  used to compromise windows and is examined successfully.
+The Metasploit framework  is  used to compromise windows and is examined successfully

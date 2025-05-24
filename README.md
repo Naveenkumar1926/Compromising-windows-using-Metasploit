@@ -92,3 +92,4 @@ keyscan_dump	Shows the keystrokes captured so far
 ![Alt text](img/keyscan.png)
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
+
